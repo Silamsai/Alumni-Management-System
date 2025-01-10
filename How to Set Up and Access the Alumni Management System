@@ -1,0 +1,13 @@
+Download and install XAMPP for Windows (64-bit).
+Ensure proper installation and run the Apache and MySQL servers.
+Open phpMyAdmin by clicking the "Admin" button under MySQL in XAMPP.
+Import the alumni_db.sql file to populate the database.
+Open your browser and navigate to: http://localhost/alumni/.
+Explore the Alumni Management System interface.
+To manage data, log in to the admin dashboard:
+Username: admin
+Password: admin123
+Manage alumni details, job opportunities, and event notifications.
+View galleries showcasing university memories.
+Update or delete data based on user credentials and privileges.
+Enjoy seamless alumni management and stay connected with your university community!
